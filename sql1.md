@@ -54,7 +54,7 @@ $edit = $conn -> query($sql);
 $edit = $edit -> fetch_assoc();
 ```
 
-![image-20240925103238931](C:\Users\13756\AppData\Roaming\Typora\typora-user-images\image-20240925103238931.png)
+![image-20240925103238931](https://github.com/mengcehn/CVE/blob/main/Snipaste_2024-09-25_10-36-50.png)
 
 ## **Vulnerability recurrence**
 
