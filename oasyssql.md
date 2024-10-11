@@ -30,8 +30,11 @@ Edition：
 Version = all    
 
 Cause the cause ：           
+
+```
 Directly use ${%%} for fuzzy query after like, which leads to the generation of loopholes:
 AND d.pinyin LIKE '${pinyin}%'
+```
 
 POC：
 
